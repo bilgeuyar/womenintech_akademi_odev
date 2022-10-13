@@ -1,1 +1,1 @@
-# womenintech_akademi_odev
+*** Women in Tech Academy Repo ***
