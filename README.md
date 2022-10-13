@@ -1,1 +1,1 @@
-*** Women in Tech Academy Repo ***
+Sisterslab-Women in Tech Academy Repo 
